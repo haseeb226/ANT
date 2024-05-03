@@ -1,2 +1,2 @@
-# ANT
-Attention Network Task
+# ANT (Attention Network Task)
+
