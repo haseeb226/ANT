@@ -1,5 +1,5 @@
 # ANT (Attention Network Task)
-This module implements ANT in MATLAB using PsychToolBox_3
+This module implements ANT in MATLAB using PsychToolBox_3.
 The Attention Network Test (ANT) was developed by Jin Fan and Michael Posner.
 
 ## Setup
